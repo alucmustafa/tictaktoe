@@ -1,0 +1,13 @@
+C:\Users\Mustafa\source\repos\TicTacToe2\TicTacToe2\bin\Debug\TicTacToe2.exe.config
+C:\Users\Mustafa\source\repos\TicTacToe2\TicTacToe2\bin\Debug\TicTacToe2.exe
+C:\Users\Mustafa\source\repos\TicTacToe2\TicTacToe2\bin\Debug\TicTacToe2.pdb
+C:\Users\Mustafa\source\repos\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.exe
+C:\Users\Mustafa\source\repos\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.pdb
+C:\Users\Mustafa\source\repos\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.GameScreen.resources
+C:\Users\Mustafa\source\repos\TicTacToe2\TicTacToe2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mustafa\source\repos\TicTacToe2\TicTacToe2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Mustafa\source\repos\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.csproj.Up2Date
